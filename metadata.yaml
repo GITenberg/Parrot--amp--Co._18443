@@ -1,0 +1,38 @@
+_repo: Parrot--amp--Co._18443
+_version: 0.1.0
+alternative_title: Parrot and Company
+contributor:
+  illustrator:
+    agent_name: Castaigne, J. André
+    aliases:
+    - Castaigne, André
+    - Castaigne, J. Andre
+    - Castaigne, A. (André)
+    - Castaigne, Andre
+    gutenberg_agent_id: '31877'
+    url: http://www.gutenberg.org/2009/agents/31877
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacGrath, Harold
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '750'
+    url: http://www.gutenberg.org/2009/agents/750
+    wikipedia: http://en.wikipedia.org/wiki/Harold_MacGrath
+description: ''
+gutenberg_issued: '2006-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Parrot & Co.
+url: http://www.gutenberg.org/ebooks/18443
